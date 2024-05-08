@@ -1,0 +1,25 @@
+menu:
+  - category: Antipasti
+    items:
+      - name: Bruschetta
+        price: €5.00 per piece
+      - name: Caprese Salad
+        price: €7.00 per plate
+  - category: Primi
+    items:
+      - name: Spaghetti Carbonara
+        price: €10.00 per plate
+      - name: Lasagna
+        price: €12.00 per plate
+  - category: Secondi
+    items:
+      - name: Osso Buco
+        price: €15.00 per plate
+      - name: Chicken Piccata
+        price: €13.00 per plate
+  - category: Dolci
+    items:
+      - name: Tiramisu
+        price: €6.00 per piece
+      - name: Cannoli
+        price: €5.00 per piece
